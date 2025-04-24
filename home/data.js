@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-kal-guo",
-      "name": "Kal Guo",
+      "id": "0-home-page",
+      "name": "home page",
       "levels": [
         {
           "tileSize": 256,
@@ -28,9 +28,9 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "公園",
   "settings": {
-    "mouseViewMode": "qtvr",
+    "mouseViewMode": "drag",
     "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
